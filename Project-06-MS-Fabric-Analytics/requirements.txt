@@ -1,0 +1,3 @@
+# Note: These are standard libraries pre-installed in Fabric Spark Runtimes
+pyspark
+delta-spark
