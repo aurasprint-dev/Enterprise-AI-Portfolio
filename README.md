@@ -1,7 +1,7 @@
 # Senior IT Consultant: Enterprise AI & Agentic Solutions Portfolio
 > **Targeting:** AI Transformation for SMBs and Large Enterprises | 2026 Roadmap
 
-This repository serves as a live portfolio of 10 production-grade AI samples designed to solve high-impact IT bottlenecks. Each project is mapped to a specific enterprise pain point.
+This repository serves as a live portfolio of 10 production-grade AI samples designed to solve high-impact IT bottlenecks. Each project is mapped to a specific enterprise pain point, utilizing state-of-the-art frameworks.
 
 ---
 
@@ -23,7 +23,7 @@ This repository serves as a live portfolio of 10 production-grade AI samples des
 
 ---
 
-### 📂 Phase 2: Autonomous IT Operations (AIOps)
+### 📂 Phase 2: Autonomous IT Operations & Data Analytics
 
 * **[Project 4: The "Self-Healing" IT Service Desk](./Project-04-Self-Healing-ITSM)**
   * **Business Problem:** High cost of Level-1 support tickets.
@@ -33,17 +33,17 @@ This repository serves as a live portfolio of 10 production-grade AI samples des
   * **Business Problem:** Sales teams waste 60% of time on manual prospecting and lead generation.
   * **Solution:** AI Agent to identify high-intent leads and draft personalized outreach.
 
-* **[Project 6: Code-First Market Research Agent](./Project-06-Market-Research)**
-  * **Business Problem:** Execs need real-time data analysis without waiting for BI teams.
-  * **Solution:** Tool that writes Python on-the-fly to analyze competitor trends.
+* **[Project 6: Enterprise Data Factory (Microsoft Fabric)](./Project-06-MS-Fabric-Analytics)** 🆕
+  * **Business Problem:** Fragmented data across different silos makes real-time AI analytics impossible.
+  * **Solution:** End-to-end data pipeline using Microsoft Fabric (OneLake) to unify data for AI-driven PowerBI insights.
 
 ---
 
 ### 📂 Phase 3: Strategic Enterprise Value
 
-* **[Project 7: Autonomous HR Interviewer (Risebird Protocol)](./Project-07-HR-Interviewer)**
-  * **Business Problem:** Inconsistent interview scoring and slow hiring cycles.
-  * **Solution:** Agentic screener applying precise logic (e.g., 70-80% = Marginally Select).
+* **[Project 7: Self-Healing IT Operations (n8n Workflow)](./Project-07-IT-Automation)**
+  * **Business Problem:** IT teams spend 40% of time on repetitive "Level 1" tasks.
+  * **Solution:** n8n-powered workflow that detects alerts and automatically executes resolution scripts.
 
 * **Project 8: Financial Anomaly Detector**
 * **Project 9: Dynamic Inventory & Pricing Agent**
@@ -53,4 +53,11 @@ This repository serves as a live portfolio of 10 production-grade AI samples des
 
 ### 🎓 Certified Expertise (2026 Roadmap)
 * **AI Architecture:** Google Introduction to Generative AI
+* **Data Analytics:** Microsoft Fabric Analytics Engineer
 * **Security:** Google Cybersecurity Professional Certificate
+* **Management:** Google Project Management Professional
+
+---
+## 📬 Contact & Consulting
+- **LinkedIn:** [Your Link Here]
+- **Focus:** AI Strategy, Agentic Workflows, Microsoft Fabric Data Architecture.
