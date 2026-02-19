@@ -19,8 +19,12 @@ I believe that AI is most valuable when it is **stateful, secure, and structured
 ## 📈 2026 Vision
 As AI models become commodities, the true value lies in the **Orchestration Layer**. I specialize in building that layer—ensuring that AI agents are grounded in enterprise data, respect corporate boundaries, and deliver measurable ROI.
 
-## Contact me
+## Contact me:
+
 Book a Meeting: https://cal.com/aurasprint/30min
-Email: dh.sharma@outlook.com 
+
+Email: dh.sharma@outlook.com
+
 LinkedIn: linkedin.com/in/contactdsharma
+
 Website: Aurasprint.com
