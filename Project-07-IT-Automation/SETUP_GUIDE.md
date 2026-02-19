@@ -14,7 +14,7 @@ How to import and run your Self-Healing Workflow in n8n.
 1. **AI Agent Node:** Click the node and add your OpenAI Credentials.
 2. **Slack Node:** (Optional) Connect your Slack Workspace or replace this node with an "Email" node.
 3. **Webhook Node:** Click the node to get your "Production URL".
-
+Observation: Watch n8n process the alert, decide on a fix via AI, and send a notification.
 ## 4. Testing the Build
 Use a tool like **Postman** or **cURL** to send a fake alert to your Webhook:
 ```bash
