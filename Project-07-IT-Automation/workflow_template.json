@@ -1,0 +1,33 @@
+{
+  "meta": { "instanceId": "your_id" },
+  "nodes": [
+    {
+      "parameters": { "httpMethod": "POST", "path": "it-alert", "options": {} },
+      "name": "Webhook: Receive Alert",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [250, 300]
+    },
+    {
+      "parameters": {
+        "prompt": "Analyze this IT Alert: {{ $json.body.message }}. If it is a service failure, suggest the 'systemctl restart' command. Otherwise, ask for escalation.",
+        "options": {}
+      },
+      "name": "AI Agent: Diagnosis",
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 1,
+      "position": [450, 300]
+    },
+    {
+      "parameters": { "channel": "it-alerts", "text": "✅ Self-Healing Action Taken: {{ $json.output }}", "options": {} },
+      "name": "Slack: Notify Team",
+      "type": "n8n-nodes-base.slack",
+      "typeVersion": 1,
+      "position": [650, 300]
+    }
+  ],
+  "connections": {
+    "Webhook: Receive Alert": { "main": [[ { "node": "AI Agent: Diagnosis", "type": "main", "index": 0 } ]] },
+    "AI Agent: Diagnosis": { "main": [[ { "node": "Slack: Notify Team", "type": "main", "index": 0 } ]] }
+  }
+}
