@@ -1,63 +1,43 @@
-# Senior IT Consultant: Enterprise AI & Agentic Solutions Portfolio
-> **Targeting:** AI Transformation for SMBs and Large Enterprises | 2026 Roadmap
+# 🏛️ Senior AI & IT Strategy Portfolio (2026)
+> **Strategic AI Architect | Agentic Workflow Expert | Data Engineer**
 
-This repository serves as a live portfolio of 10 production-grade AI samples designed to solve high-impact IT bottlenecks. Each project is mapped to a specific enterprise pain point, utilizing state-of-the-art frameworks.
-
----
-
-## 🚀 The 10-Project Roadmap (Step-by-Step)
-
-### 📂 Phase 1: Knowledge Intelligence & RAG
-
-* **[Project 1: Multi-Doc Compliance "Expert"](./Project-01-Compliance-RAG)** 🛠️ *Status: In Progress*
-  * **Business Problem:** Manual review of thousands of IT policies/SOC2 docs is slow and error-prone.
-  * **Solution:** RAG-based agent for instant, cited answers from internal PDF silos.
-
-* **[Project 2: Graph-Based Enterprise Memory](./Project-02-Graph-Memory)**
-  * **Business Problem:** AI losing context across multi-departmental projects.
-  * **Solution:** Implementation of LangGraph for persistent, cross-functional project memory.
-
-* **[Project 3: AI Security Threat Triaging](./Project-03-Security-Threat-Triaging)**
-  * **Business Problem:** SOC teams overwhelmed by low-level log alerts.
-  * **Solution:** Automated triaging agent that filters and escalates only critical anomalies.
+Welcome to my professional portfolio. This repository contains 10 production-ready projects demonstrating the transition from traditional IT infrastructure to **Agentic Enterprise Intelligence**.
 
 ---
 
-### 📂 Phase 2: Autonomous IT Operations & Data Analytics
+## 🚀 The Portfolio at a Glance
 
-* **[Project 4: The "Self-Healing" IT Service Desk](./Project-04-Self-Healing-ITSM)**
-  * **Business Problem:** High cost of Level-1 support tickets.
-  * **Solution:** Multi-agent system (Diagnosis, Research, Scripting) to automate incident resolution.
-
-* **[Project 5: Autonomous LinkedIn "AI SDR"](./Project-05-LinkedIn-Lead-Gen)**
-  * **Business Problem:** Sales teams waste 60% of time on manual prospecting and lead generation.
-  * **Solution:** AI Agent to identify high-intent leads and draft personalized outreach.
-
-* **[Project 6: Enterprise Data Factory (Microsoft Fabric)](./Project-06-MS-Fabric-Analytics)** 🆕
-  * **Business Problem:** Fragmented data across different silos makes real-time AI analytics impossible.
-  * **Solution:** End-to-end data pipeline using Microsoft Fabric (OneLake) to unify data for AI-driven PowerBI insights.
-
----
-
-### 📂 Phase 3: Strategic Enterprise Value
-
-* **[Project 7: Self-Healing IT Operations (n8n Workflow)](./Project-07-IT-Automation)**
-  * **Business Problem:** IT teams spend 40% of time on repetitive "Level 1" tasks.
-  * **Solution:** n8n-powered workflow that detects alerts and automatically executes resolution scripts.
-
-* **Project 8: Financial Anomaly Detector**
-* **Project 9: Dynamic Inventory & Pricing Agent**
-* **Project 10: Executive "Strategy War Room"**
+| Phase | Project | Core Tech | Business Impact |
+| :--- | :--- | :--- | :--- |
+| **I. Knowledge** | 01. [Compliance RAG](./Project-01-Compliance-RAG) | LangChain, Pinecone | 90% Faster Document Audits |
+| | 02. [Graph Memory](./Project-02-Graph-Memory) | LangGraph, SQLite | Multi-session Context Continuity |
+| | 03. [Security Triage](./Project-03-Security-Threat-Triaging) | PydanticAI | MTTR Reduction for SOC Teams |
+| **II. Action** | 04. [Self-Healing Desk](./Project-04-Self-Healing-ITSM) | CrewAI, Python | Level-1 Support Automation |
+| | 05. [LinkedIn SDR](./Project-05-LinkedIn-Lead-Gen) | CrewAI, Serper | 3x Higher Lead Conversion |
+| | 06. [Fabric Analytics](./Project-06-MS-Fabric-Analytics) | MS Fabric, Spark | Unified Data Strategy (OneLake) |
+| **III. Strategy**| 07. [n8n Automation](./Project-07-IT-Automation) | n8n, AI Nodes | Infrastructure Hyper-Automation |
+| | 08. [Financial Auditor](./Project-08-Financial-Anomaly-Detector) | PydanticAI | Real-time Fraud Prevention |
+| | 09. [Inventory Agent](./Project-09-Dynamic-Inventory-Pricing) | LangChain Tools | Supply Chain Margin Optimization |
+| | 10. [Executive War Room](./Project-10-Executive-War-Room) | LangGraph (Supervisor) | C-Suite Decision Intelligence |
 
 ---
 
-### 🎓 Certified Expertise (2026 Roadmap)
-* **AI Architecture:** Google Introduction to Generative AI
-* **Data Analytics:** Microsoft Fabric Analytics Engineer
-* **Security:** Google Cybersecurity Professional Certificate
-* **Management:** Google Project Management Professional
+## 🛠️ Tech Stack & Tooling
+- **Orchestration:** LangGraph, CrewAI, n8n
+- **Frameworks:** LangChain, PydanticAI
+- **Data & Cloud:** Microsoft Fabric, Spark, Pinecone, SQLite
+- **Models:** GPT-4o, Claude 3.5 Sonnet, GPT-4o-mini
+
+## 📂 Repository Structure
+Each project folder contains:
+1. `README.md`: Business use case and technical architecture.
+2. `*.py`: Production-grade Python logic or workflow exports.
+3. `requirements.txt`: Environment dependencies.
+4. `SETUP_GUIDE.md`: Step-by-step implementation instructions.
 
 ---
-## 📬 Contact & Consulting
-- **LinkedIn:** [Your Link Here]
-- **Focus:** AI Strategy, Agentic Workflows, Microsoft Fabric Data Architecture.
+
+## 👤 Contact & Consultation
+Looking to implement Agentic Workflows in your organization? 
+- **View My Profile:** [ABOUT_ME.md](./ABOUT_ME.md)
+- **Learning Path:** [LEARNING_RESOURCES.md](./LEARNING_RESOURCES.md)
