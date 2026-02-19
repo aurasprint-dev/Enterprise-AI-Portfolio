@@ -1,6 +1,7 @@
-# About Me: Senior IT Consultant & AI Architect 🚀
+# About Me: IT Consultant & Advisor 🚀
 
 ## 🎯 Professional Profile
+
 I am a strategic IT Consultant specialized in bridging the gap between **enterprise business logic** and **autonomous AI systems**. With a focus on the 2026 AI landscape, I help organizations move beyond simple chatbots toward **Agentic Workflows**—systems that don't just "chat," but actually "reason, act, and resolve."
 
 ## 🛠️ Core Competencies
@@ -19,5 +20,7 @@ I believe that AI is most valuable when it is **stateful, secure, and structured
 As AI models become commodities, the true value lies in the **Orchestration Layer**. I specialize in building that layer—ensuring that AI agents are grounded in enterprise data, respect corporate boundaries, and deliver measurable ROI.
 
 ## Contact me
+Book a Meeting: https://cal.com/aurasprint/30min
 Email: dh.sharma@outlook.com 
-LinkedIn: linkedin.com/in/contactdsharma 
+LinkedIn: linkedin.com/in/contactdsharma
+Website: Aurasprint.com
