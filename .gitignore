@@ -1,0 +1,19 @@
+# Secrets and Credentials
+.env
+*.env
+secrets.json
+
+# Python Virtual Environments
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+
+# IDE Settings
+.vscode/
+.idea/
+
+# OS Metadata
+.DS_Store
+Thumbs.db
