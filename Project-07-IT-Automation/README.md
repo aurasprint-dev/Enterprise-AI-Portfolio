@@ -16,6 +16,8 @@ IT Operations teams are often stuck in a "reactive" loop, manually responding to
 3. **Execution:** If the fix is low-risk (e.g., `systemctl restart nginx`), n8n executes the command via SSH.
 4. **Escalation:** If the AI is unsure, it automatically creates a Jira ticket and alerts the team on Slack.
 
+5. Note: In n8n, "Code" is stored as a JSON file that you can import directly into the canvas.
+
 ## 🎯 Consultant's Strategic Impact
 - **Operational Scalability:** Allows IT teams to manage 5x more infrastructure without increasing headcount.
 - **Error Reduction:** Eliminates human typos during high-pressure system outages.
