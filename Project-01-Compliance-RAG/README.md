@@ -12,6 +12,8 @@
 ## 💼 Business Use Case
 Large enterprises and SMBs struggle with "Information Silos." Employees spend hours searching through hundreds of IT policies, SOC2 compliance docs, and legal contracts. This project solves that by creating a **Retrieval-Augmented Generation (RAG)** system that provides instant, cited answers based *only* on internal company data.
 
+![Compliance Architecture](Diagram Compliance-RAG.png)
+
 ## 🛠️ Tech Stack
 - **Language:** Python
 - **Orchestration:** LangChain / LlamaIndex
