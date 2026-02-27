@@ -18,7 +18,7 @@ Follow these three modules to complete this project:
 1. **Morning (Theory):** - Watch: [Intro to Large Language Models (DeepLearning.AI)](https://www.youtube.com/watch?v=zjkBMFhNj_g)
    - *Goal:* Understand how embeddings and vector search work.
 
-2. **Afternoon (Architecture):** - Watch: [RAG Explained: From Beginner to Advanced](https://www.youtube.com/watch?v=wd7UZ4F2nrk)
+2. **Afternoon (Architecture):** - Watch: [RAG Explained: From Beginner to Advanced](https://www.youtube.com/watch?v=o126p1QN_RI)
    - *Goal:* Map out the "Load -> Chunk -> Embed -> Store" pipeline.
 
 3. **Evening (Implementation):**
