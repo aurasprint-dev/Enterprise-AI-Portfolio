@@ -2,6 +2,13 @@
 # Project 1: Enterprise Compliance RAG "Expert" 📚
 > **Category:** Knowledge Intelligence / Information Retrieval
 
+### *Automated Document Auditing & Risk Assessment*
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aurasprint-dev/Enterprise-AI-Portfolio/blob/main/Project-01-Compliance-RAG/compliance_rag_demo.ipynb)
+
+> [!TIP]
+> **Strategic Impact:** Reduces manual audit time by **90%**. This system transforms static PDF policies into an interactive "Compliance Brain" that identifies risks in seconds.
+
 ## 💼 Business Use Case
 Large enterprises and SMBs struggle with "Information Silos." Employees spend hours searching through hundreds of IT policies, SOC2 compliance docs, and legal contracts. This project solves that by creating a **Retrieval-Augmented Generation (RAG)** system that provides instant, cited answers based *only* on internal company data.
 
