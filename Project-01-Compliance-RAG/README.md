@@ -24,6 +24,19 @@ Follow these three modules to complete this project:
 3. **Evening (Implementation):**
    - Resource: [Build a RAG chatbot (n8n, Pinecone, Lovable)](https://lnkd.in/dew--RqD)
    - *Goal:* Build a prototype that can "read" a PDF and answer questions accurately.
+  
+
+## ⚖️ Why This Tech Stack?
+
+In an enterprise environment, "cool" isn't enough. I chose these tools for **Reliability, Scalability, and ROI.**
+
+* **LangChain:** I chose this over custom logic to ensure the system is **future-proof.** It allows us to swap LLMs or vector stores in minutes without a total rewrite.
+* **Pinecone (Serverless):** Unlike local databases (FAISS), Pinecone handles the infrastructure. It’s built for **Production-Grade scaling** and keeps costs low for SMEs.
+* **OpenAI GPT-4o:** Compliance requires high reasoning accuracy. GPT-4o provides the **lowest hallucination rates** for complex legal and audit documents.
+* **Python:** The industry standard. It ensures the fastest deployment and easiest integration with existing enterprise security frameworks.
+
+> [!NOTE]
+> This stack was selected to minimize **Technical Debt** while maximizing **Audit Accuracy.**
 
 ## 🎯 Consultant's Key Features
 - **Citations:** Every answer includes the page number and document name (Source Attribution).
